@@ -10,6 +10,7 @@ app.use(express.static("public"));
 
 //routes
 app.use("/", htmlroutes);
+app.use("/api", apiroutes);
 
 //listener
 app.listen(PORT, function () {
