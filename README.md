@@ -4,7 +4,7 @@
 
 ## Description
 
-This application was designed for a user to generate a webpage that displays a team's basic information so that they have quick access to emails and GitHub profiles. First, I created the lib pages and got all of the tests to pass, using 'npm run test'. Put prompts into the app.js, so that the user can quickly answer questions and input information. The app will let you choose from different employment options, manager, engineer, or Intern. After all prompts are answered, an HTML page will be created and posted into the output folder. The file will show a clean webpage with all employee information.
+This application was designed for a user to create, write, save and delete notes. It can be used for personal, or professional purposes. This will help a user organize their thoughts and ensure that any task they need to be complete will be done. This was made with frontend and backend with HTML, CSS, Javascript, Node.js, and express database dependencies. The application has been deployed to Heroku.
 
 ## Table of Contents
 
