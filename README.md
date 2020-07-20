@@ -8,11 +8,20 @@ This application was designed for a user to create, write, save and delete notes
 
 ## Table of Contents
 
+- [Deployed Site](#deployed-site)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+
+## Deployed Site
+
+To inspect the live application, follow the link:
+
+```
+https://intense-castle-65875.herokuapp.com/
+```
 
 ## Installation
 
@@ -39,5 +48,7 @@ npm run test
 ```
 
 ## Questions
+
+  <img src="https://avatars.githubusercontent.com/jakevs" style="width: 10px; height: 10px; border-radius:75%;">
 
 If you have any questions about the repository, or an open issue, please contact [jakevs](https://github.com/jakevs/) directly at jakevs3@gmail.com.
